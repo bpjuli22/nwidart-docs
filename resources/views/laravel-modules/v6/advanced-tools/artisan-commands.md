@@ -193,6 +193,7 @@ Optional options:
 
 - `--fillable=field1,field2`: set the fillable fields on the generated model
 - `--migration`, `-m`: create the migration file for the given model
+- `-mrc`, `m` : create the migration, `r` : create resource in controller, `c` : create controller for the model
 
 ### module:make-provider
 
